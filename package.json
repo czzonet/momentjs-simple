@@ -1,0 +1,10 @@
+{
+  "name": "momentjs-simple",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "author": "czzonet <czzonet@163.com>",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
