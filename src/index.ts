@@ -1,6 +1,13 @@
 import moment from "moment";
 
 async function main() {
+  example();
+  debugger;
+}
+
+main().then();
+
+function example() {
   const nowDate = new Date();
   console.log("\n----Date now---- ");
   console.log("[ISO string]");
@@ -64,5 +71,3 @@ async function main() {
 
   debugger;
 }
-
-main().then();
